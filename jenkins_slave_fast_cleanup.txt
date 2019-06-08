@@ -1,0 +1,5 @@
+# Jenkins Slave fast cleanup command:
+
+Used in ansible ad-hoc command triggered by a jenkins job:
+
+(nohup mv /home/cloud/jenkins_slave/workspace /home/cloud/jenkins_slave/workspace.old;nohup rm -rf /home/cloud/jenkins_slave/workspace.old)& (nohup mv /global/apps/cdbuilt/build_server/maven/connecteddrive/local-repo-maven-3 /global/apps/cdbuilt/build_server/maven/connecteddrive/local-repo-maven-3.old;nohup rm -rf /global/apps/cdbuilt/build_server/maven/connecteddrive/local-repo-maven-3.old)&
