@@ -4,8 +4,8 @@
 * Developers.redhat.com: https://developers.redhat.com/blog/2017/03/14/java-inside-docker/  ****
 * redhat.com JVM Options Configuration Tool: https://access.redhat.com/labs/jvmconfig/  **** 
 * docs.openshift.io: 
- - https://docs.openshift.com/container-platform/3.9/dev_guide/application_memory_sizing.html 
- - https://blog.openshift.com/category/technologies/jenkins/ 
+  - https://docs.openshift.com/container-platform/3.9/dev_guide/application_memory_sizing.html 
+  - https://blog.openshift.com/category/technologies/jenkins/ 
 
 ## Dzone.com:
 * Troubleshooting java applications on Openshift: https://dzone.com/articles/troubleshooting-java-applications-on-openshift *****
